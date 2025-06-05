@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    width: 100%;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -16,13 +17,13 @@ html, body {
   }
   
   #title {
-    font-size: 2em;       /* taille du titre */
+    font-size: 12vw;    /* taille du titre */
     color: white;       /* couleur bleue */
     margin-bottom: 1em;
     text-decoration: underline;
   }
   
   #rule {
-    font-size: 1.5em;     /* taille de la règle */
+    font-size: 6vw;     /* taille de la règle */
     color: white;          /* couleur foncée */
   }
