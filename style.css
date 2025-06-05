@@ -17,13 +17,13 @@ html, body {
   }
   
   #title {
-    font-size: 12vw;    /* taille du titre */
+    font-size: 50vw;    /* taille du titre */
     color: white;       /* couleur bleue */
     margin-bottom: 1em;
     text-decoration: underline;
   }
   
   #rule {
-    font-size: 6vw;     /* taille de la règle */
+    font-size: 30vw;     /* taille de la règle */
     color: white;          /* couleur foncée */
   }
