@@ -119,6 +119,10 @@
     { "num": 8999, "en": "It's... under 9000??? Some exceptions.", "fr": "C’est… en dessous de 9000 ??? Quelques exceptions." },
     { "num": 9001, "en": "It's over 9000!!! No exceptions.", "fr": "C’est plus de 9000 !!! Aucune exception." },
     { "num": 1991, "en": "Goku doesn't solo.", "fr": "Goku ne solo pas." },
+    { "num": 665, "en": "A person who is in a relationship with someone who behaves like a child is, by definition, a pedophile, unless they themselves also behave like a child.", "fr": "Une personne en couple avec quelqu’un qui a le comportement d’un enfant est, par définition, un pédophile, à moins qu’elle n’ait elle-même le comportement d’un enfant." },
     { "num": 666, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou." },
-    { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." }
+    { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." },
+    { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
+    { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
+    { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." }
       ]
