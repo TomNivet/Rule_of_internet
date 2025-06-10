@@ -123,6 +123,7 @@
     { "num": 666, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou." },
     { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." },
     { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
+    { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin." },
     { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
     { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." }
       ]
