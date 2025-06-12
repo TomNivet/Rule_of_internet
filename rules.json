@@ -179,7 +179,7 @@
 
     { "num": 1000, "en": "The admin is always right.", "fr": "L’admin a toujour raison." },
     { "num": 1001, "en": "If the admin is wrong, refer to rule n°10000.", "fr": "Si l'admin se trompe, se référer à la regle n°1000." },
-    { "num": 1002, "en": "User7442: The admin can be wro\nUser7442 has been banned.", "fr": "User7442 : L'administration peut se tro\nUser7442 a été banni."},
+    { "num": 1002, "en": "User7442: The admin can be wro\nUser7442 has been banned.", "fr": "User7442 : L'admin peut se tro\nUser7442 a été banni."},
     { "num": 1003, "en": "The admin knows when someone visits the site. Always.", "fr": "L’admin sait quand quelqu’un visite le site. Toujours."},
     
     
