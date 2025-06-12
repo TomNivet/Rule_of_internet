@@ -4,10 +4,15 @@ fetch('rules.json')
   .then(rules => {
     const randomRule = rules[Math.floor(Math.random() * rules.length)];
     const lang = (typeof language !== "undefined" && language === "en") ? "en" : "fr";
-    const label = (lang === "en") ? "Rule n°" : "Règle n°";
+    // Le label sans <br> !
+    const label = (lang === "en") ? "Rule of internet" : "Règle d'internet";
 
-    document.getElementById('title').textContent = `${label}${randomRule.num}`;
-    document.getElementById('rule').textContent = randomRule[lang];
+    // innerHTML pour interpréter le <br>
+    document.getElementById('title').innerHTML = `${label}<br>N° ${randomRule.num}`;
+
+    // Remarque : si tu as des \n dans la règle, tu peux aussi convertir en <br> :
+    // document.getElementById('rule').innerHTML = randomRule[lang].replace(/\n/g, '<br>');
+    document.getElementById('rule').innerHTML = randomRule[lang].replace(/\n/g, "<br>");
   })
   .catch(error => {
     document.getElementById('title').textContent = "Erreur";

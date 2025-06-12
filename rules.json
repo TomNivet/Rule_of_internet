@@ -1,4 +1,5 @@
 [
+  { "num": "7+i3", "en": "Rules are starting to get complex.", "fr": "Les blague commence à être complexes." },
     { "num": "i", "en": "Just as the square root of -1 is imaginary, so too are half the things you see on the internet.", "fr": "Comme la racine carrée de -1 est imaginaire, la moitié de ce que vous voyez sur Internet l’est aussi." },
     { "num": "-1", "en": "/b/ is not your friend.", "fr": "/b/ n'est pas ton ami." },
     { "num": 0, "en": "Don't fuck with cats", "fr": "Ne fais pas chier les chats." },
@@ -125,5 +126,8 @@
     { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
     { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin." },
     { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
-    { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." }
-      ]
+    { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." },
+    { "num": 1000, "en": "The admin is always right.", "fr": "L’admin a toujour raison." },
+    { "num": 1001, "en": "If the admin is wrong, refer to rule n°10000.", "fr": "Si l'admin se trompe, se référer à la regle n°1000." },
+    {"num": 1002,"en": "User7442: The admin can be wro\nUser7442 has been banned.","fr": "User7442 : L'administration peut se tro\nUser7442 a été banni."}
+  ]
