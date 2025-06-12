@@ -167,7 +167,10 @@
 
 
     { "num": 665, "en": "A person who is in a relationship with someone who behaves like a child is, by definition, a pedophile, unless they themselves also behave like a child.", "fr": "Une personne en couple avec quelqu’un qui a le comportement d’un enfant est, par définition, un pédophile, à moins qu’elle n’ait elle-même le comportement d’un enfant." },
-    { "num": 666, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou." },
+    { "num": 666, "en": "The admin knows what Hélène loves", "fr": "L'adim sais ce qu'aime Hélène" },
+    { "num": 666.25, "en": "Hélène censors the admin", "fr": "Hélène censure l'admin" },
+    { "num": 666.5, "en": "Hélène is not the girlfrien of the admin", "fr": "Hélène n'est pas la copine de l'admin" },
+    { "num": 666.75, "en": "To the great despair of the admin", "fr": "Au grand désarroi de l'admin" },
     { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." },
     { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
     { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin." },
@@ -232,5 +235,6 @@
     { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
     { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." },
     { "num": "admin-42", "en": "The admin knows the answer to the ultimate question of life, the universe, and everything.", "fr": "L'admin connaît la réponse à la grande question sur le sens de la vie, de l'univers et de toute chose."},
-    { "num": "6×9 = 42", "en": "The admin knows why 6×9 = 42. Don't ask.Understand.", "fr": "L'admin sait pourquoi 6×9 = 42. Ne demande pas. Comprend"}
+    { "num": "6×9 = 42", "en": "The admin knows why 6×9 = 42. Don't ask. Understand.", "fr": "L'admin sait pourquoi 6×9 = 42. Ne demande pas. Comprend"},
+    { "num": ".", "en": "Decimal are underrated", "fr": "Les décimal sont sous-estimées" }
   ]

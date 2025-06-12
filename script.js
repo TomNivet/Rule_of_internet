@@ -19,3 +19,6 @@ fetch('rules.json')
     document.getElementById('rule').textContent = "Impossible de charger les règles.";
     console.error("Erreur de chargement du fichier JSON :", error);
   });
+
+
+  //    { "num": 666, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou." },
