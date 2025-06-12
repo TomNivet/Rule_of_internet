@@ -1,5 +1,5 @@
 [
-  { "num": "7+3i", "en": "Rules are starting to get complex.", "fr": "Les blague commence à être complexes." },
+    { "num": "7+3i", "en": "Rules are starting to get complex.", "fr": "Les règles commence à être complexes." },
     { "num": "i", "en": "Just as the square root of -1 is imaginary, so too are half the things you see on the internet.", "fr": "Comme la racine carrée de -1 est imaginaire, la moitié de ce que vous voyez sur Internet l’est aussi." },
     { "num": "-1", "en": "/b/ is not your friend.", "fr": "/b/ n'est pas ton ami." },
     { "num": 0, "en": "Don't fuck with cats", "fr": "Ne fais pas chier les chats." },
@@ -79,55 +79,158 @@
     { "num": 74, "en": "Rule 74 does not exist.", "fr": "La règle 74 n'existe pas." },
     { "num": 74.5, "en": "Denying your own existence is not a problem.", "fr": "Nier sa propre existence n'est pas un problème." },
     { "num": 75, "en": "Rule 75 is a lie. OH SHI-", "fr": "La règle 75 est un mensonge. OH M-"},
+    
+    
+    
     { "num": 77, "en": "The internet makes you stupid.", "fr": "Internet vous rend stupide." },
     { "num": 78, "en": "There is a Wiki of it. No exceptions.", "fr": "Il existe un Wiki pour ça. Aucune exception." },
+    
+    
+    
     { "num": 80, "en": "Gore is always present on the internet.", "fr": "Le gore est toujours présent sur Internet." },
     { "num": 83, "en": "Get bite-of-87ed.", "fr": "Reçois la morsure de 87." },
     { "num": 84, "en": "Deltarune will ALWAYS be tomorrow.", "fr": "Deltarune sera TOUJOURS pour demain." },
     { "num": 85, "en": "If it exists, there is a pony of it. No exceptions.", "fr": "Si cela existe, il y a une version poney. Aucune exception." },
     { "num": 86, "en": "If it exists, you can play Bad Apple on it. No exceptions.", "fr": "Si cela existe, on peut y jouer Bad Apple. Aucune exception." },
     { "num": 87, "en": "Do not speak of the diner.", "fr": "Ne parle pas du dîner." },
+    
+    
+    
     { "num": 90, "en": "Every anime sure have JoJo referenced, No exceptions.", "fr": "Chaque anime a forcément une référence à JoJo. Aucune exception." },
+    
+    
+    
     { "num": 93, "en": "If it exists, you can play DOOM on it. No exceptions.", "fr": "Si cela existe, on peut y jouer à DOOM. Aucune exception." },
     { "num": 94, "en": "Every person is Trans until proven otherwise.", "fr": "Toute personne est trans jusqu'à preuve du contraire." },
+    
+    
+    
     { "num": 96, "en": "PORTAL is becoming the new DOOM.", "fr": "PORTAL devient le nouveau DOOM." },
+    
+    
+    
     { "num": 101, "en": "If it exists Equinox 101 can beat it. Grug is the exception as beating Equinox 101 rhymes with Grug.", "fr": "Si cela existe, Equinox 101 peut le battre. Grug est l'exception car battre Equinox 101 rime avec Grug." },
+    
+    
+    
     { "num": 103, "en": "For every song, there is a Vocaloid version of it.", "fr": "Pour chaque chanson, il existe une version Vocaloid." },
     { "num": 104, "en": "If there is not a Vocaloid version of it, there will be. No exceptions.", "fr": "S'il n'en existe pas de version Vocaloid, il y en aura une. Aucune exception." },
     { "num": 105, "en": "Rule 71 is SERIOUS FUCKING BUSINESS.", "fr": "La règle 71 est une AFFAIRE TRÈS SÉRIEUSE." },
+    
+    
+    
     { "num": 123, "en": "456789.", "fr": "456789." },
-    { "num": 177, "en": "Tropicana tastes like rainbow. No exceptions.", "fr": "Tropicana a le goût de l'arc-en-ciel. Aucune exception." },
+
+
     { "num": 169, "en": "Nah, I'd rather have 2 69s.", "fr": "Nan, je préfère avoir deux 69." },
+
+
+
+    { "num": 177, "en": "Tropicana tastes like rainbow. No exceptions.", "fr": "Tropicana a le goût de l'arc-en-ciel. Aucune exception." },
+    
+    
+    
     { "num": 190, "en": "The only good hentai is yuri, that's how the internet works.", "fr": "Le seul bon hentai est le yuri, c'est comme ça qu'internet fonctionne." },
+    
+    
+    
     { "num": 210, "en": "Chinese cultural products (anime, cartoon, manhua) is exceptions of rule 34, 63 (before I tell to they).", "fr": "Les produits culturels chinois (anime, dessin animé, manhua) font exception aux règles 34 et 63 (avant que je ne leur dise)." },
+    
+    
+    
     { "num": 222, "en": "If there is the opportunity to make a Will Wood reference, then make a Will Wood reference.", "fr": "S'il y a une occasion de faire une référence à Will Wood, fais-la." },
+    
+    
+    
     { "num": 227, "en": "Comparing two things is normal, but if compared too often it becomes unhealthy and toxic.", "fr": "Comparer deux choses est normal, mais si c'est trop fréquent, cela devient malsain et toxique." },
+    
+    
+    
     { "num": 250, "en": "The more famous something is, the more people will try to bring it down with or without reason.", "fr": "Plus quelque chose est célèbre, plus les gens essaieront de le démolir, avec ou sans raison." },
+    
+    
+    
     { "num": 269, "en": "Yeah, finally... 2 69s!", "fr": "Ouais, enfin... 2 fois 69 !" },
+    
+    
+    
     { "num": 284, "en": "What has been seen cannot be unseen. Even the post clearance that's coming up.", "fr": "Ce qui a été vu ne peut pas être oublié. Même ce qui va être supprimé." },
+    
+    
+    
     { "num": 386, "en": "If it's white and has a black circle in the center, then it's Minos Prime.", "fr": "Si c'est blanc avec un cercle noir au centre, alors c'est Minos Prime." },
+    
+    
+    
     { "num": 647, "en": "Keldeo is a pony.", "fr": "Keldeo est un poney." },
-    { "num": 2006, "en": "Cock joke.", "fr": "Blague de teub." },
-    { "num": 2007, "en": "Everything you say here is private.", "fr": "Tout ce que tu dis ici est privé." },
-    { "num": 2010, "en": "Nothing you say here is private.", "fr": "Rien de ce que tu dis ici n'est privé." },
-    { "num": 2018, "en": "Most people here are morons.", "fr": "La plupart des gens ici sont des crétins." },
-    { "num": 2020, "en": "InCoNsIsTeNcY is eveRyWhErE", "fr": "L’iNcOnStAnCe est PaRtOuT." },
-    { "num": 2023, "en": "William Afton moment.", "fr": "Moment William Afton." },
-    { "num": 2028, "en": "Nobody can count to 3.", "fr": "Personne ne peut compter jusqu’à 3." },
-    { "num": 2031, "en": "Do it for the vine.", "fr": "Fais-le pour Vine." },
-    { "num": 2036, "en": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "fr": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
-    { "num": 4784, "en": "Everything rhymes with Grug, Except for losing.", "fr": "Tout rime avec Grug, sauf perdre." },
-    { "num": 8999, "en": "It's... under 9000??? Some exceptions.", "fr": "C’est… en dessous de 9000 ??? Quelques exceptions." },
-    { "num": 9001, "en": "It's over 9000!!! No exceptions.", "fr": "C’est plus de 9000 !!! Aucune exception." },
-    { "num": 1991, "en": "Goku doesn't solo.", "fr": "Goku ne solo pas." },
+
+
+
     { "num": 665, "en": "A person who is in a relationship with someone who behaves like a child is, by definition, a pedophile, unless they themselves also behave like a child.", "fr": "Une personne en couple avec quelqu’un qui a le comportement d’un enfant est, par définition, un pédophile, à moins qu’elle n’ait elle-même le comportement d’un enfant." },
     { "num": 666, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou." },
     { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." },
     { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
     { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin." },
-    { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
-    { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." },
+
+
+
     { "num": 1000, "en": "The admin is always right.", "fr": "L’admin a toujour raison." },
     { "num": 1001, "en": "If the admin is wrong, refer to rule n°10000.", "fr": "Si l'admin se trompe, se référer à la regle n°1000." },
-    {"num": 1002,"en": "User7442: The admin can be wro\nUser7442 has been banned.","fr": "User7442 : L'administration peut se tro\nUser7442 a été banni."}
+    { "num": 1002, "en": "User7442: The admin can be wro\nUser7442 has been banned.", "fr": "User7442 : L'administration peut se tro\nUser7442 a été banni."},
+    { "num": 1003, "en": "The admin knows when someone visits the site. Always.", "fr": "L’admin sait quand quelqu’un visite le site. Toujours."},
+    
+    
+    
+    { "num": 1991, "en": "Goku doesn't solo.", "fr": "Goku ne solo pas." },
+
+
+
+    { "num": 2006, "en": "Cock joke.", "fr": "Blague de teub." },
+    { "num": 2007, "en": "Everything you say here is private.", "fr": "Tout ce que tu dis ici est privé." },
+    
+    
+    
+    { "num": 2010, "en": "Nothing you say here is private.", "fr": "Rien de ce que tu dis ici n'est privé." },
+    
+    
+    
+    { "num": 2018, "en": "Most people here are morons.", "fr": "La plupart des gens ici sont des crétins." },
+    
+    
+    { "num": 2020, "en": "InCoNsIsTeNcY is eveRyWhErE", "fr": "L’iNcOnStAnCe est PaRtOuT." },
+    
+    
+    
+    { "num": 2023, "en": "William Afton moment.", "fr": "Moment William Afton." },
+    
+    
+    
+    { "num": 2028, "en": "Nobody can count to 3.", "fr": "Personne ne peut compter jusqu’à 3." },
+    
+    
+    
+    { "num": 2031, "en": "Do it for the vine.", "fr": "Fais-le pour Vine." },
+    
+    
+    
+    { "num": 2036, "en": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "fr": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" },
+    
+    
+    
+    { "num": 4784, "en": "Everything rhymes with Grug, Except for losing.", "fr": "Tout rime avec Grug, sauf perdre." },
+    
+    
+    
+    { "num": 8999, "en": "It's... under 9000??? Some exceptions.", "fr": "C’est… en dessous de 9000 ??? Quelques exceptions." },
+    
+    
+    
+    { "num": 9001, "en": "It's over 9000!!! No exceptions.", "fr": "C’est plus de 9000 !!! Aucune exception." },
+    
+    
+    
+    { "num": "∞", "en": "The admin can create an infinite number of rules, because the admin is infinity.", "fr": "L’admin peut créer un nombre infini de règles, car l’admin est l’infini." },
+    { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." },
+    { "num": "admin-42", "en": "The admin knows the answer to the ultimate question of life, the universe, and everything.", "fr": "L'admin connaît la réponse à la grande question sur le sens de la vie, de l'univers et de toute chose."},
+    { "num": "6×9 = 42", "en": "The admin knows why 6×9 = 42. Don't ask.Understand.", "fr": "L'admin sait pourquoi 6×9 = 42. Ne demande pas. Comprend"}
   ]
