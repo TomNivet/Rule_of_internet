@@ -237,5 +237,5 @@
     { "num": "admin-42", "en": "The admin knows the answer to the ultimate question of life, the universe, and everything.", "fr": "L'admin connaît la réponse à la grande question sur le sens de la vie, de l'univers et de toute chose."},
     { "num": "6×9 = 42", "en": "The admin knows why 6×9 = 42. Don't ask. Understand.", "fr": "L'admin sait pourquoi 6×9 = 42. Ne demande pas. Comprend"},
     { "num": ".", "en": "Decimal are underrated", "fr": "Les décimal sont sous-estimées" },
-    { "num": "TT_0","en": "[TT_0] Connection established.\n User: TimeTraveler_0.\n Click to synchronize: <a href='time_rules.html'>Temporal Directive</a>.","fr": "[TT_0] Connexion établie.\n Utilisateur : TimeTraveler_0.\n Cliquez pour synchroniser : <a href='time_rules.html'>Directive temporelle</a>."}
+    { "num": "TT_0","en": "[TT_0] Connection established.\n User: TimeTraveler_0.\n Click to synchronize: <a href='time_rules.html'>Temporal Directive</a>.","fr": "[TT_0] Connexion établie.\n Utilisateur : TimeTraveler_0.\n Cliquez pour synchroniser : \n<a href='time_rules.html'>Directive temporelle</a>."}
   ]

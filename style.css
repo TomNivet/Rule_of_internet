@@ -23,7 +23,8 @@ html, body {
     text-decoration: underline;
   }
   
-  #rule {
+  #rule,a {
     font-size: 5vw;     /* taille de la règle */
     color: white;          /* couleur foncée */
+    text-decoration: none;
   }
