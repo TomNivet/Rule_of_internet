@@ -38,7 +38,7 @@
     { "num": 33, "en": "Lurk more — it's never enough.", "fr": "Observe plus — ce n’est jamais assez." },
     { "num": 34, "en": "If it exists, there is porn of it. No exceptions.", "fr": "Si ça existe, il y en a une version porno. Pas d’exception." },
     { "num": 35, "en": "If no porn is found of it, it will be made.", "fr": "S’il n’y en a pas, il y en aura bientôt." },
-    { "num": 36, "en": "There will always be even more fucked up shit than what you just saw.", "fr": "Il y aura toujours pire que ce que tu viens de voir." },
+    { "num": 36, "en": "There will always be even more fucked up shit than what you just saw.", "fr":  "Il y aura toujours pire que ce que tu viens de voir." },
     { "num": 37, "en": "You cannot divide by zero — just because the calculator says so.", "fr": "On ne peut pas diviser par zéro — c’est la calculette qui le dit." },
     { "num": 38, "en": "No real limits of any kind apply here — not even the sky.", "fr": "Il n’y a aucune vraie limite ici — même pas le ciel." },
     { "num": 39, "en": "CAPSLOCK IS CRUISE CONTROL FOR COOL.", "fr": "CAPSLOCK, C’EST LE PILOTE AUTOMATIQUE DU STYLE." },
@@ -236,5 +236,6 @@
     { "num": "♠", "en": "The admin is asexual.", "fr": "L’admin est asexuel." },
     { "num": "admin-42", "en": "The admin knows the answer to the ultimate question of life, the universe, and everything.", "fr": "L'admin connaît la réponse à la grande question sur le sens de la vie, de l'univers et de toute chose."},
     { "num": "6×9 = 42", "en": "The admin knows why 6×9 = 42. Don't ask. Understand.", "fr": "L'admin sait pourquoi 6×9 = 42. Ne demande pas. Comprend"},
-    { "num": ".", "en": "Decimal are underrated", "fr": "Les décimal sont sous-estimées" }
+    { "num": ".", "en": "Decimal are underrated", "fr": "Les décimal sont sous-estimées" },
+    { "num": "TT_0","en": "[TT_0] Connection established.\n User: TimeTraveler_0.\n Click to synchronize: <a href='time_rules.html'>Temporal Directive</a>.","fr": "[TT_0] Connexion établie.\n Utilisateur : TimeTraveler_0.\n Cliquez pour synchroniser : <a href='time_rules.html'>Directive temporelle</a>."}
   ]
