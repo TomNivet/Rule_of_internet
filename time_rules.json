@@ -16,7 +16,10 @@
   {"num": "3","type": "rule","en": "Do not speak of the timeline you came from. It no longer exists.","fr": "Ne parlez pas de la ligne temporelle d’où vous venez. Elle n’existe plus."},
   {"num": "5","type": "rule","en": "The further back you go, the less you belong.","fr": "Plus vous remontez, moins vous appartenez à ce monde."},
   {"num": "6","type": "rule","en": "If fate drags you to yourself, don’t linger. Make it quick. Leave before the timeline fractures.","fr": "Si le destin te force à te croiser, ne traîne pas. Fais vite. Pars avant que la ligne temporelle ne se brise."},
-  {"num": "7","type": "rule","en": "If a timeline fractures, move swiftly. Patch the tear by realigning the causal threads — or vanish into the void.","fr": "Si une ligne temporelle se fracture, agis vite. Répare la déchirure en réalignant les fils causaux — ou disparaît dans le néant."}
+  {"num": "7","type": "rule","en": "If a timeline fractures, move swiftly. Patch the tear by realigning the causal threads — or vanish into the void.","fr": "Si une ligne temporelle se fracture, agis vite. Répare la déchirure en réalignant les fils causaux — ou disparaît dans le néant."},
 
+
+
+  {"num": "42","type": "rule","en": "You found it. Now take it before they erase this.","fr": "Vous l’avez trouvée. Prenez-la avant qu’ils ne l’effacent.","pdf": "PDFs/69203579.pdf"}
 
 ]

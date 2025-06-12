@@ -11,10 +11,19 @@ fetch('time_rules.json')
       ? (lang === "en" ? "Temporal Axiom" : "Axiome temporel")
       : (lang === "en" ? "Temporal Rule" : "Règle temporelle");
 
-
-    // innerHTML pour interpréter le <br>
+    // Affichage dans le HTML
     document.getElementById('title').innerHTML = `${label}<br>N° ${randomRule.num}`;
     document.getElementById('rule').innerHTML = randomRule[lang].replace(/\n/g, "<br>");
+
+    // ✅ Si un fichier PDF est associé à la règle, on déclenche le téléchargement
+    if (randomRule.pdf) {
+      const link = document.createElement("a");
+      link.href = randomRule.pdf;
+      link.download = randomRule.pdf.split("/").pop(); // nom du fichier = nom original
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
   })
   .catch(error => {
     document.getElementById('title').textContent = "Erreur";
