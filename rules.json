@@ -166,16 +166,16 @@
 
 
 
-    { "num": 665, "en": "A person who is in a relationship with someone who behaves like a child is, by definition, a pedophile, unless they themselves also behave like a child.", "fr": "Une personne en couple avec quelqu’un qui a le comportement d’un enfant est, par définition, un pédophile, à moins qu’elle n’ait elle-même le comportement d’un enfant." },
-    { "num": 666, "en": "The admin knows what Hélène loves", "fr": "L'adim sais ce qu'aime Hélène" },
-    { "num": 666.2, "en": "Hélène tries to censors the admin", "fr": "Hélène tente de censurer l'admin" },
+    { "num": 665, "en": "A person who is in a relationship with someone who behaves like a child is, by definition, a pedophile, unless they themselves also behave like a child.", "fr": "Une personne en couple avec quelqu’un qui a le comportement d’un enfant est, par définition, un pédophile, à moins qu’elle n’ait elle-même le comportement d’un enfant." , "code":"Hélène"},
+    { "num": 666, "en": "The admin knows what Hélène loves", "fr": "L'adim sais ce qu'aime Hélène" , "code":"Hélène"},
+    { "num": 666.2, "en": "Hélène tries to censors the admin", "fr": "Hélène tente de censurer l'admin" , "code":"Hélène"},
     { "num": 666.5, "en": "No one censors the admin. He will always fight for freedom — and win.", "fr": "Personne ne censure l’admin. Il se battra toujours pour la liberté — et il gagnera."},
-    { "num": 666.6, "en": "Hélène is not the girlfrien of the admin", "fr": "Hélène n'est pas la copine de l'admin", "code": "Jardin secret"  },
-    { "num": 666.8, "en": "To the great despair of the admin", "fr": "Au grand désarroi de l'admin", "code": "Jardin secret" },
-    { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec." },
-    { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure." },
-    { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin." },
-    { "num": 670, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou.", "code": "Censure" },
+    { "num": 666.6, "en": "Hélène is not the girlfrien of the admin", "fr": "Hélène n'est pas la copine de l'admin", "code": ["Jardin secret","Hélène"]  },
+    { "num": 666.8, "en": "To the great despair of the admin", "fr": "Au grand désarroi de l'admin", "code": ["Jardin secret","Hélène"]  },
+    { "num": 667, "en": "Hélène asks the admin to create cyanide for her to get rid of her boyfriend.", "fr": "Hélène demande à l'admin de lui créer du cyanure pour se débarrasser de son mec.", "code":"Hélène" },
+    { "num": 668, "en": "The admin doesn't like Hélène, so he won't provide her with any cyanide.", "fr": "L'admin n'apprécie pas Hélène, donc il ne lui fournira pas de cyanure.", "code":"Hélène" },
+    { "num": 669, "en": "Hélène is not a morning person.", "fr": "Hélène n'est pas du matin.", "code":"Hélène" },
+    { "num": 670, "en": "Hélène likes to have a hickey on her neck.", "fr": "Hélène aime avoir un suçon dans le cou.", "code": ["Censure","Hélène"] },
 
 
 
